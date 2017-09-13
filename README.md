@@ -1,5 +1,7 @@
 # log4js API
 
+[](https://nomiddlename.github.io/log4js-node/index.html)
+
 ## CHANGES [相对于v1版本有很大的变动]
 
 - no exit listeners defined for appenders by default. users should call log4js.shutdown in their exit listeners.
