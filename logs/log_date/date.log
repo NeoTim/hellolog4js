@@ -1,0 +1,6 @@
+[2017-09-13 16:40:45.285] [TRACE] cookie - Entering cheese testing
+[2017-09-13 16:40:45.289] [DEBUG] cookie - Got cheese.
+[2017-09-13 16:40:45.289] [INFO] cookie - Cheese is Gouda.
+[2017-09-13 16:40:45.289] [WARN] cookie - Cheese is quite smelly.
+[2017-09-13 16:40:45.289] [ERROR] cookie - Cheese is too ripe!
+[2017-09-13 16:40:45.290] [FATAL] cookie - Cheese was breeding ground for listeria.

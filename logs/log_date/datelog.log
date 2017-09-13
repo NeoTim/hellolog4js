@@ -1,0 +1,30 @@
+[2017-09-13 16:44:57.321] [TRACE] cookie - Entering cheese testing
+[2017-09-13 16:44:57.326] [DEBUG] cookie - Got cheese.
+[2017-09-13 16:44:57.326] [INFO] cookie - Cheese is Gouda.
+[2017-09-13 16:44:57.326] [WARN] cookie - Cheese is quite smelly.
+[2017-09-13 16:44:57.326] [ERROR] cookie - Cheese is too ripe!
+[2017-09-13 16:44:57.326] [FATAL] cookie - Cheese was breeding ground for listeria.
+[2017-09-13 16:45:53.480] [TRACE] cookie - Entering cheese testing
+[2017-09-13 16:45:53.483] [DEBUG] cookie - Got cheese.
+[2017-09-13 16:45:53.484] [INFO] cookie - Cheese is Gouda.
+[2017-09-13 16:45:53.484] [WARN] cookie - Cheese is quite smelly.
+[2017-09-13 16:45:53.484] [ERROR] cookie - Cheese is too ripe!
+[2017-09-13 16:45:53.485] [FATAL] cookie - Cheese was breeding ground for listeria.
+[2017-09-13 16:49:03.902] [TRACE] cookie - Entering cheese testing
+[2017-09-13 16:49:03.906] [DEBUG] cookie - Got cheese.
+[2017-09-13 16:49:03.906] [INFO] cookie - Cheese is Gouda.
+[2017-09-13 16:49:03.906] [WARN] cookie - Cheese is quite smelly.
+[2017-09-13 16:49:03.907] [ERROR] cookie - Cheese is too ripe!
+[2017-09-13 16:49:03.907] [FATAL] cookie - Cheese was breeding ground for listeria.
+[2017-09-13 16:49:12.415] [TRACE] cookie - Entering cheese testing
+[2017-09-13 16:49:12.420] [DEBUG] cookie - Got cheese.
+[2017-09-13 16:49:12.421] [INFO] cookie - Cheese is Gouda.
+[2017-09-13 16:49:12.421] [WARN] cookie - Cheese is quite smelly.
+[2017-09-13 16:49:12.421] [ERROR] cookie - Cheese is too ripe!
+[2017-09-13 16:49:12.422] [FATAL] cookie - Cheese was breeding ground for listeria.
+[2017-09-13 16:49:31.776] [TRACE] cookie - Entering cheese testing
+[2017-09-13 16:49:31.780] [DEBUG] cookie - Got cheese.
+[2017-09-13 16:49:31.781] [INFO] cookie - Cheese is Gouda.
+[2017-09-13 16:49:31.781] [WARN] cookie - Cheese is quite smelly.
+[2017-09-13 16:49:31.781] [ERROR] cookie - Cheese is too ripe!
+[2017-09-13 16:49:31.782] [FATAL] cookie - Cheese was breeding ground for listeria.
