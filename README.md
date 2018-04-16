@@ -1,5 +1,7 @@
 # log4js API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NextZeus/hellolog4js.svg)](https://greenkeeper.io/)
+
 [](https://nomiddlename.github.io/log4js-node/index.html)
 
 ## CHANGES [相对于v1版本有很大的变动]
